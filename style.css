@@ -1,0 +1,84 @@
+html{
+    font-size: 100%;
+}
+
+.carousel-caption{
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 1.8;
+}
+div.carousel-caption{
+    position: absolute;
+    top: 450px;
+    right: 130px;
+}
+
+.orad {
+    list-style:none;
+}
+.orad li a{
+    display:none;
+    position:absolute;
+    min-width: 140px;
+    }
+.button {
+    background-color: transparent; 
+    border: 2px solid;
+    border-radius: 5px;
+    color: white;
+    padding: 8px 18px;
+    text-align: center;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.card-body{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+    line-height: 25px;
+}
+.card-text{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: black;
+    text-align: justify;
+    line-height: 25px;
+}
+.texto2{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+    line-height: 30px;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.boton{
+    background-color: #97c84dbd;
+    border: none;
+    color: white;
+    padding: 10px 412px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+footer{
+    background-color: rgb(16, 18, 72)
+}
+.nav-item{
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 15px;
+    justify-items: center;
+}

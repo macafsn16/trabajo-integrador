@@ -1,0 +1,43 @@
+.bloques{
+    display: flex;
+    justify-content: center;
+}
+.bloques >div{
+    margin: 5px;
+    padding: 30px;
+    width: 260px;
+    height: 260px;
+    border-style: solid;
+    font-family: sans-serif;
+    text-align: center;
+    
+   }
+
+   ul {
+    list-style:none;
+   }
+
+   .marino{
+       border-color: rgb(67, 67, 218);
+       
+   }
+   .celeste{
+       border-color: rgb(73, 157, 209);
+      
+   }
+   .amarillo{
+       border-color: rgb(218, 218, 22);
+   }
+   h6, h2{
+       text-align: center;
+       font-family: sans-serif;
+   }
+footer{
+    background-color: rgb(16, 18, 72)
+}
+.nav-item{
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 15px;
+    justify-items: center;
+}
